@@ -21,4 +21,4 @@
 [sails]: <http://sailsjs.org/get-started>
 [sublime]:<https://www.sublimetext.com/3>
 [vs]:<https://code.visualstudio.com/>
-[postman]:<http://abc.com>
+[postman]:<https://goo.gl/m06uED>
